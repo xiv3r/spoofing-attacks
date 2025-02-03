@@ -26,7 +26,7 @@ DNS: 10.0.0.1
 ```
 - Change your device Mac address (root) using any macchanger tools.
 > - Openwrt: `vi /etc/config/wireless`
-> - Linux Pc: `sudo nano /etc/NetworkManager/Network Manager.conf`
+> - Linux Pc: `sudo nano /etc/NetworkManager/NetworkManager.conf`
 ```
 Target Mac: D0:22:BE:28:40:BD
 ```
@@ -35,4 +35,6 @@ Target Mac: D0:22:BE:28:40:BD
 ```
 Target Hostname: Android
 ```
+
+- Refresh the Gateway 10.0.0.1 in the browser.
 
