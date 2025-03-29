@@ -40,5 +40,8 @@ Target Mac to clone: D0:22:BE:28:40:BD
 Target Hostname to clone: Android
 ```
 
-- Refresh the Gateway 10.0.0.1 in the browser.
+- Test the internet connection status
+```
+ping google.com
+```
 
